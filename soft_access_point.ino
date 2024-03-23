@@ -29,5 +29,12 @@ void loop() {
 *wm:3 networks found
 *wm:3 networks found
 *wm:3 networks found
+*wm:Connecting to NEW AP: Harshita
+*wm:connectTimeout not set, ESP waitForConnectResult... 
+*wm:Connect to new AP [SUCCESS] 
+*wm:Got IP Address: 
+*wm:192.168.1.11 
+*wm:config portal exiting 
+connected to harshal
 
 */
